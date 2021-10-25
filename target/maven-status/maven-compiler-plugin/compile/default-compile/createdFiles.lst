@@ -1,0 +1,5 @@
+com\wipro\DemoApplication.class
+com\wipro\CarRepository.class
+com\wipro\CarController.class
+com\wipro\ServletInitializer.class
+com\wipro\Car.class
