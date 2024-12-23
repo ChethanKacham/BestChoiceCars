@@ -7,6 +7,8 @@
 <title>Car Choosing Error</title>
 </head>
 <body bgcolor="#E6E6FA">
+<% String resultPath= request.getScheme() +"://"+ request.getServerName() +":"+ request.getServerPort() + request.getContextPath(); %>
 <h1>Please Choose a Car!!!</h1>
+<a href="<%=resultPath%>/">Home</a>
 </body>
 </html>
